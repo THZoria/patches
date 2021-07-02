@@ -2,7 +2,7 @@
 Sigpatch for Atmosphère and Hekate
 
 [![Discord](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA
-)](https://discord.gg/XRYzNKyc)
+)](https://discord.gg/6zRbG3FsJH)
 
 Thanks to the developer for their work
 - SciresM (Atmosphère & DayBreak & Reboot to payload) : https://github.com/Atmosphere-NX/Atmosphere
